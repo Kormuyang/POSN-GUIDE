@@ -52,7 +52,7 @@ cout << sizeof(a)/sizeof(a[0]); //พิมพ์ขนาดของ array
 #include <mem.h>
 int a[1000];
 memset(a, k, sizeof(a)); //วิธีกำหนดค่าของข้อมูลทั้งหมดใน array ให้มีค่าเท่ากับ k ตามที่ต้องการ
-//โดยในทางทฤษฎีแล้ว การใช้ memset จะเร็วกว่าการใช้ for loop กำหนดค่าทีละตัว
+//ในทางทฤษฎีแล้ว การใช้ memset จะเร็วกว่าการใช้ for loop กำหนดค่าทีละตัว
 ```
 ```cpp
 //global variable
