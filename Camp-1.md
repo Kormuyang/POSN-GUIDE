@@ -1,4 +1,4 @@
-# Camp-1
+# Camp 1 (เนื้อหาค่าย 1)
 ## Camp 1 - Checklist
   - programming langauges (C, C++)
   - input and output
