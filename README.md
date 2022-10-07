@@ -1,5 +1,5 @@
 # POSN COMP GUIDE
-This is the extremely powerful tricks for competitive programming.
+This is the extremely powerful guide for competitive programming.
 ## Pre Camp (สอบเข้าค่าย 1)
   ข้อสอบมีทั้งหมด 100 ข้อ ข้อสอบแบ่งออกเป็น 2 ส่วน คือ
   - Mathematics 60 ข้อ - โจทย์ก็เหมือนข้อสอบ ม.ปลาย ทั่ว ๆ ไป เป็นแนว speed test
