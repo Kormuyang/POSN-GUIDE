@@ -1,4 +1,4 @@
-# POSN COMP TRICKS
+# POSN COMP GUIDE
 This is the extremely powerful tricks for competitive programming.
 ## Pre Camp (สอบเข้าค่าย 1)
   ข้อสอบมีทั้งหมด 100 ข้อ ข้อสอบแบ่งออกเป็น 2 ส่วน คือ
