@@ -1,5 +1,5 @@
 # Camp-1
-### Camp 1 - Checklist
+## Camp 1 - Checklist
   - programming langauges (C, C++)
   - input and output
   - shortening code
@@ -12,18 +12,18 @@
   - array data structure
   - pointer address
   - iterator
-### input and output
+## input and output
 ```cpp
 string name; //ประกาศตัวแปรประเภท string
 cin >> name; //รับค่าจากแป้นพิมพ์และเก็บไว้ในตัวแปรชื่อ name
 cout << name; //พิมพ์ค่าที่อยู่ในตัวแปรชื่อ name
 ```
-### shortening code
+## shortening code
 ```cpp
 #define ll long long //ให้ข้อความ ll แทนข้อความ long long
 #define f(a, b) for(int i=a; i<b; i++) //ตัวอย่างการใช้คำสั่ง define ที่มีการรับค่าตัวแปร
 ```
-### variable
+## variable
 ```cpp
 int a; //ประกาศตัวแปรประเภท int ที่มีชื่อว่า a
 ```
@@ -37,7 +37,7 @@ long long     ขนาด 64 bits  เก็บค่าได้ [-2^63-1, 2^6
 float   เก็บทศนิยมแต่อย่าใช้เลยเพราะคลาดเคลื่อนได้ง่าย
 double  เก็บทศนิยมเหมือนกันแต่นิยมใช้มากกว่าเพราะเสถียรกว่า
 ```
-### array
+## array
 ```cpp
 int a[n]; //ประกาศ array ประเภท int ที่มีชื่อว่า a โดยมีข้อมูลทั้งหมด n ตัว
 ```
