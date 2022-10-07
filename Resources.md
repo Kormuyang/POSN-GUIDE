@@ -3,7 +3,7 @@
   หนังสือทั้งสองเล่มนี้เป็นเนื้อหาสรุปเนื้อหา รวมถึงยกตัวอย่างแนวโจทย์ที่มักเจอได้บ่อย ๆ
   - Competitive programming books - CSES<br />
     แปะลิงค์ : https://cses.fi/book/book.pdf
-  - Competitive Programming 3<br />
+  - Competitive Programming 3 <br />
     แปะลิงค์ : https://github.com/prasadgujar/CompetitiveProgramming/blob/master/book/Competitive%20Programming%203.pdf<br /><br />
 ### เว็บสำหรับฝึกโจทย์
   - beta.programming - ไม่มีเด็กค่ายคนไหนที่ไม่รู้จักเว็บนี้ เป็นเว็บที่อยู่คู่กับเด็กค่ายคอมมาอย่างยาวนาน มีตั้งแต่โจทย์สบาย ๆ ยันโจทย์ TOI เลยทีเดียว<br />
