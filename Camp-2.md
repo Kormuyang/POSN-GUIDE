@@ -34,17 +34,15 @@
 ## Big O notation
 ฟังก์ชัน O(K) แทน ขอบบนของระยะเวลาที่ฟังก์ชันนั้นใช้ในการทำงาน ใช้ในการคำนวณหา time complexity
 ```cpp
-int sum = 0;
 for(int i=0; i<N; i++) {
-  sum = sum + 1;
+  //command
 }
 ```
 จากตัวอย่างโค้ดข้างบน ฟังก์ชันดังกล่าวมี time complexity เท่ากับ O(N) เมื่อ N แทน จำนวนของ input
 ```cpp
-int sum = 0;
 for(int i=0; i<N; i++) {
   for(int j=0; j<N; j++) {
-    sum = sum + 1;
+    //command
   }
 }
 ```
