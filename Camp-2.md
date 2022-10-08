@@ -1,1 +1,23 @@
 # Camp 2 (เนื้อหาค่าย 2)
+## Camp 2 - Checklist
+  - competition environment
+  - big O notation - O(N), O(NlogN)
+  - sorting - bubble sort, quick sort
+  - binary search - lower_bound, upper_bound
+  - linked list
+  - vector - dynamic array
+  - stack
+  - queue and deque - sliding window
+  - hashing - unordered_set, unordered_map
+  - tree - level order traversal
+  - binary search tree - set, map
+  - heap - priority_queue
+  - graph theory - single shortest path
+  - BFS and DFS - floodfill problem
+  - brute force
+  - rescursion
+  - divide and conquer - merge sort
+  - backtracking - maze
+  - greedy algorithm - job sequencing problem
+  - dynamic programming - knapsack problem
+  - sweep line
