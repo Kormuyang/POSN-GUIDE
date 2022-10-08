@@ -15,8 +15,8 @@
   - iterator
 ## input and output
 ```cpp
-string name; //ประกาศตัวแปรประเภท string
-cin >> name; //รับค่าจากแป้นพิมพ์และเก็บไว้ในตัวแปรชื่อ name
+string name;  //ประกาศตัวแปรประเภท string
+cin >> name;  //รับค่าจากแป้นพิมพ์และเก็บไว้ในตัวแปรชื่อ name
 cout << name; //พิมพ์ค่าที่อยู่ในตัวแปรชื่อ name
 ```
 ## shortening code
