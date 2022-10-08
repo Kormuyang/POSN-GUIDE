@@ -9,6 +9,7 @@
   - if else condition
   - for while loop
   - function
+  - pair and tuple
   - array data structure
   - pointer address
   - iterator
@@ -36,6 +37,20 @@ long long     ขนาด 64 bits  เก็บค่าได้ [-2^63-1, 2^6
 ```cpp
 float   เก็บทศนิยมแต่อย่าใช้เลยเพราะคลาดเคลื่อนได้ง่าย
 double  เก็บทศนิยมเหมือนกันแต่นิยมใช้มากกว่าเพราะเสถียรกว่า
+```
+## pair and tuple
+```cpp
+pair<int, int> a = {5, 10}; //ประกาศ pair ประเภท int กับ int ที่มีชื่อว่า a
+cout << a.first;  //พิมพ์ 5
+cout << a.second; //พิมพ์ 10
+```
+```cpp
+#include <algorithm>
+pair<int, int> a[] = {{8, 9}, {1, 10}, {3, 5}, {6, 4}}; //ประกาศ array ประเภท pair<int, int> ที่มีชื่อว่า a
+sort(a, a+4); //เรียงลำดับข้อมูลในตัวแปรจากน้อยไปมาก
+for(int i=0; i<4; i++) { cout << a[i].first  << ' '; } //พิมพ์  1 3 6 8
+for(int i=0; i<4; i++) { cout << a[i].second << ' '; } //พิมพ์ 10 5 4 9
+//คำสั่ง sort จะเรียงลำดับจากข้อมูลตัวแรกในแต่ละ pair
 ```
 ## array
 ```cpp
