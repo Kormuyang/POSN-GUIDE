@@ -20,8 +20,8 @@
   - backtracking - maze
   - greedy algorithm - job sequencing problem
   - dynamic programming - knapsack problem
-  - sweep line<br /><br />
-## competition environment
+  - sweep line
+## Competition Environment
   ```cpp
   #include <bits/stdc++.h>
   ```
@@ -30,8 +30,8 @@
   ios::sync_with_stdio(false);
   cin.tie(false);
   ```
-  โค้ด 2 บรรทัดนี้ จะทำให้โปรแกรมทำงานได้เร็วขึ้น โดยการลดระยะเวลาที่ใช้ในคำสั่ง cin และ cout<br /><br />
-## big O notation
+  โค้ด 2 บรรทัดนี้ จะทำให้โปรแกรมทำงานได้เร็วขึ้น โดยการลดระยะเวลาที่ใช้ในคำสั่ง cin และ cout
+## Big O notation
 ฟังก์ชัน O(K) แทน ขอบบนของระยะเวลาที่ฟังก์ชันนั้นใช้ในการทำงาน ใช้ในการคำนวณหา time complexity
 ```cpp
 int sum = 0;
@@ -49,4 +49,3 @@ for(int i=0; i<N; i++) {
 }
 ```
 จากตัวอย่างโค้ดข้างบน ฟังก์ชันดังกล่าวมี time complexity เท่ากับ O(N^2) เมื่อ N แทน จำนวนของ input
-## array
