@@ -27,8 +27,10 @@
   ```
   header ครอบจักรวาล รวบรวม library ไว้แทบทุกอย่างที่จะนึกออกได้
   ```cpp
-  ios::sync_with_stdio(false);
-  cin.tie(false);
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  cout.tie(0);
+  cin.exceptions(cin.failbit);
   ```
   โค้ด 2 บรรทัดนี้ จะทำให้โปรแกรมทำงานได้เร็วขึ้น โดยการลดระยะเวลาที่ใช้ในคำสั่ง cin และ cout
 ## Big O notation
