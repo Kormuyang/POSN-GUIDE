@@ -1,4 +1,4 @@
-# Books and other resources
+# Books and Resources
 ## หนังสือแนะนำ
   หนังสือทั้งสองเล่มนี้เป็นเนื้อหาสรุปเนื้อหา รวมถึงยกตัวอย่างแนวโจทย์ที่มักเจอได้บ่อย ๆ
   - Competitive programming books - CSES<br />
