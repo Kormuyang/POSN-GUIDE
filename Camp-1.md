@@ -14,7 +14,7 @@
   - pointer address
   - iterator
 
-
+<br></br>
 ## Input and Output
 ```cpp
 string name;  //ประกาศตัวแปรประเภท string
