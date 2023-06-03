@@ -49,46 +49,9 @@ float   เก็บทศนิยมแต่อย่าใช้เลย �
 double  เก็บทศนิยมเหมือนกันแต่นิยมใช้มากกว่า เพราะเสถียรกว่า
 ```
 <br></br>
-## Function
-```cpp
-#include <iostream>
-
-using namespace std;
-
-//function สำหรับหา ผลรวม
-int getSum(int a, int b) {
-  return (a + b);
-}
-
-int main() {
-  int a, b;
-  cin >> a >> b;
-  cout << getSum(a, b) << '\n';
-  return 0;
-}
-```
-```cpp
-#include <iostream>
-
-using namespace std;
-
-//function แบบ rescursive สำหรับหา ห.ร.ม.
-int getGCD(int a, int b) {
-  if(b == 0) return a;
-  return getGCD(b, a % b);
-}
-
-int main() {
-  int a, b;
-  cin >> a >> b;
-  cout << getGCD(a, b) << '\n';
-  return 0;
-}
-```
-<br></br>
 ## Pair and Tuple
 ```cpp
-pair<int, int> a = {5, 10}; //ประกาศ pair ประเภท int กับ int ที่มีชื่อว่า a
+pair<int, int> a = {5, 10}; //ประกาศ pair ประเภท <int, int> ที่มีชื่อว่า a
 cout << a.first;  //พิมพ์ 5
 cout << a.second; //พิมพ์ 10
 ```
