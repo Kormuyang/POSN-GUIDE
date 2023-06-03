@@ -6,7 +6,7 @@
   - Competitive Programming 3 <br />
     แปะลิงก์ : https://github.com/prasadgujar/CompetitiveProgramming/blob/master/book/Competitive%20Programming%203.pdf<br /><br />
 ## เว็บสำหรับฝึกโจทย์
-  - beta.programming - ไม่มีเด็กค่ายคนไหนที่ไม่รู้จักเว็บนี้ เป็นเว็บที่อยู่คู่กับเด็กค่ายคอมมาอย่างยาวนาน มีตั้งแต่โจทย์สบาย ๆ ยันโจทย์ TOI เลยทีเดียว<br />
+  - beta.programming - ไม่มีเด็กค่ายคนไหนที่ไม่รู้จักเว็บนี้ เป็นเว็บที่อยู่คู่กับเด็กค่ายคอมมาอย่างยาวนาน มีตั้งแต่โจทย์สบาย ๆ ยันโจทย์ IPST เลยทีเดียว<br />
     แปะลิงก์ : https://beta.programming.in.th/
   - CSES - มีโจทย์ครอบคลุมแทบทุกแบบของแนวโจทย์สำคัญที่ต้องเจอแน่ ๆ<br />
     แปะลิงก์ : https://cses.fi/problemset/
