@@ -21,6 +21,8 @@
   - greedy algorithm - job sequencing problem
   - dynamic programming - knapsack problem
   - sweep line
+
+<br></br>
 ## Competition Environment
   ```cpp
   #include <bits/stdc++.h>
@@ -29,23 +31,23 @@
   ```cpp
   ios::sync_with_stdio(0);
   cin.tie(0);
-  cout.tie(0);
-  cin.exceptions(cin.failbit);
   ```
   โค้ด 2 บรรทัดนี้ จะทำให้โปรแกรมทำงานได้เร็วขึ้น โดยการลดระยะเวลาที่ใช้ในคำสั่ง cin และ cout
-## Big O notation
-ฟังก์ชัน O(K) แทน ขอบบนของระยะเวลาที่ฟังก์ชันนั้นใช้ในการทำงาน ใช้ในการคำนวณหา time complexity
-```cpp
-for(int i=0; i<N; i++) {
-  //command
-}
-```
-จากตัวอย่างโค้ดข้างบน ฟังก์ชันดังกล่าวมี time complexity เท่ากับ O(N) เมื่อ N แทน จำนวนของ input
-```cpp
-for(int i=0; i<N; i++) {
-  for(int j=0; j<N; j++) {
-    //command
+
+<br></br>
+## Big O Notation
+  ฟังก์ชัน O(K) แทน ขอบบนของระยะเวลาที่ฟังก์ชันนั้นใช้ในการทำงาน ใช้ในการคำนวณหา time complexity
+  ```cpp
+  for(int i = 0; i < N; i++) {
+      //command
   }
-}
-```
-จากตัวอย่างโค้ดข้างบน ฟังก์ชันดังกล่าวมี time complexity เท่ากับ O(N^2) เมื่อ N แทน จำนวนของ input
+  ```
+  จากตัวอย่างโค้ดข้างบน ฟังก์ชันดังกล่าวมี time complexity เท่ากับ O(N) เมื่อ N แทน จำนวนของ input
+  ```cpp
+  for(int i = 0; i < N; i++) {
+      for(int j = 0; j < N; j++) {
+          //command
+      }
+  }
+  ```
+  จากตัวอย่างโค้ดข้างบน ฟังก์ชันดังกล่าวมี time complexity เท่ากับ O(N^2) เมื่อ N แทน จำนวนของ input
