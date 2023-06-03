@@ -13,11 +13,12 @@
   - array data structure
   - pointer address
   - iterator
+
 <br></br>
 ## Input and Output
 ```cpp
 string name;  //ประกาศตัวแปรประเภท string
-cin >> name;  //รับค่าจากแป้นพิมพ์และเก็บไว้ในตัวแปรชื่อ name
+cin >> name;  //รับค่าจากแป้นพิมพ์ และเก็บไว้ในตัวแปรชื่อ name
 cout << name; //พิมพ์ค่าที่อยู่ในตัวแปรชื่อ name
 ```
 <br></br>
